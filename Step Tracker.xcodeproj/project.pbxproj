@@ -42,7 +42,6 @@
 		726009E32BE92D570019CBF7 = {
 			isa = PBXGroup;
 			children = (
-				728F2A702BEE7563008E602B /* HealthKitManager.swift */,
 				726009EE2BE92D570019CBF7 /* Step Tracker */,
 				726009ED2BE92D570019CBF7 /* Products */,
 			);
@@ -61,6 +60,7 @@
 			children = (
 				728F2A6F2BEE73F8008E602B /* Step Tracker.entitlements */,
 				726009EF2BE92D570019CBF7 /* Step_TrackerApp.swift */,
+				728F2A702BEE7563008E602B /* HealthKitManager.swift */,
 				728F2A6D2BEE6DDC008E602B /* HealthKitPermissionPrimingView.swift */,
 				726009F12BE92D570019CBF7 /* DashboardView.swift */,
 				724422332BEB24F600953DB3 /* HealthDataListView.swift */,
