@@ -1,10 +1,3 @@
-//
-//  HealthKitManager.swift
-//  Step Tracker
-//
-//  Created by HelloTask on 10/5/24.
-//
-
 import Foundation
 import HealthKit
 import Observation
